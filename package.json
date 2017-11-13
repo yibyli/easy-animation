@@ -1,0 +1,19 @@
+{
+  "name": "easy-animation",
+  "version": "1.0.0",
+  "description": "类似于jquery的动画,但是环境是React.js的一个前端动画库。主要特色是链式调用以及基于事件而不是数据流。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "yibyli",
+    "email": "yibyli@foxmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  }
+}
