@@ -10,6 +10,10 @@
     "name": "yibyli",
     "email": "yibyli@foxmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yibyli/easy-animation.git"
+  },
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
